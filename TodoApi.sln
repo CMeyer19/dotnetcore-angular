@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularApplication", "..\AngularApplication\AngularApplication.csproj", "{613291B0-A69A-44A2-9D0F-35CA1A437272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Debug|x86.Build.0 = Debug|Any CPU
+		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Release|x86.ActiveCfg = Release|Any CPU
+		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Release|x86.Build.0 = Release|Any CPU
+		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Debug|x86.Build.0 = Debug|Any CPU
+		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Release|x86.ActiveCfg = Release|Any CPU
+		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFED925E-5D5B-493C-8378-C4D04DDA916F}
+	EndGlobalSection
+EndGlobal
