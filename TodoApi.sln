@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29521.150
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularApplication", "..\AngularApplication\AngularApplication.csproj", "{613291B0-A69A-44A2-9D0F-35CA1A437272}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularApplication", "AngularApplication\AngularApplication.csproj", "{C538EA9A-E013-48E5-A1D7-7E8AD9A7353A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,14 +23,14 @@ Global
 		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Release|x86.ActiveCfg = Release|Any CPU
 		{714F9900-DD76-46AD-A257-4B1C9AF3AE9C}.Release|x86.Build.0 = Release|Any CPU
-		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Debug|x86.Build.0 = Debug|Any CPU
-		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Release|Any CPU.Build.0 = Release|Any CPU
-		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Release|x86.ActiveCfg = Release|Any CPU
-		{613291B0-A69A-44A2-9D0F-35CA1A437272}.Release|x86.Build.0 = Release|Any CPU
+		{C538EA9A-E013-48E5-A1D7-7E8AD9A7353A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C538EA9A-E013-48E5-A1D7-7E8AD9A7353A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C538EA9A-E013-48E5-A1D7-7E8AD9A7353A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C538EA9A-E013-48E5-A1D7-7E8AD9A7353A}.Debug|x86.Build.0 = Debug|Any CPU
+		{C538EA9A-E013-48E5-A1D7-7E8AD9A7353A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C538EA9A-E013-48E5-A1D7-7E8AD9A7353A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C538EA9A-E013-48E5-A1D7-7E8AD9A7353A}.Release|x86.ActiveCfg = Release|Any CPU
+		{C538EA9A-E013-48E5-A1D7-7E8AD9A7353A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
